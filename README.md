@@ -1,4 +1,3 @@
-# leocengia.github.io
 Stable KB for ACP cases:
 
 ---
